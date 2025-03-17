@@ -1,10 +1,10 @@
-## Análise e Classificação da Qualidade do Sono
+# Análise e Classificação da Qualidade do Sono
 
-# Descrição do Projeto
+## Descrição do Projeto
 
 Este repositório contém códigos e notebooks utilizados para a análise e classificação da qualidade do sono, abrangendo desde o pré-processamento dos dados até o treinamento de modelos de machine learning para a predição da qualidade do sono.
 
-# Estrutura do Repositório
+## Estrutura do Repositório
 
 1. Pre_processamento.ipynb
 
